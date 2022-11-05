@@ -1,3 +1,8 @@
+# Adding config.py file.
+config.py
+# Adding additional files.
+Module_6_Practice.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
