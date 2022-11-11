@@ -2,6 +2,9 @@
 config.py
 # Adding additional files.
 Module_6_Practice.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
+Google_Nearby_Search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
