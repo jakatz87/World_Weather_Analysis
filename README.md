@@ -3,8 +3,12 @@
 ## Project Overview
 I used weather data from around the world to plan a vaction.
 
-***Resources***: Jupyter Notebook, Python 3.7.13, JSON, Pandas, CityPy, NumPy, Open Weather Map API, Google Maps API, Google Directions API
-
+***Resources***: 
+ - Jupyter Notebook
+ - Python 3.7.13
+ - JSON
+ - Pandas, CityPy, NumPy
+ - Open Weather Map API, Google Maps API, Google Directions API
 
 ## Process
 Using NumPy and CityPy, I was able to generate nearly 700 cities around the world based on random latitudes and longitudes.  Using the Open Weather Map API, I created a pandas DataFrame with the information:
