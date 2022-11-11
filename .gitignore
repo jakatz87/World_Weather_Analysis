@@ -2,6 +2,8 @@
 config.py
 # Adding additional files.
 Module_6_Practice.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
